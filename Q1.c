@@ -25,8 +25,6 @@ Explanation: Insert 3 at position 3, elements [4,5,6] shift right*/
 
 #include <stdio.h>
 
-#include <stdio.h>
-
 int main() {
     int n, pos, x, i, a[50];
 
@@ -49,4 +47,5 @@ int main() {
         printf("%d ", a[i]);
     return 0;
 }
+
 
